@@ -1,1 +1,2 @@
-
+str="welcome"
+print(str)
