@@ -1,2 +1,4 @@
 # hello-github
- first GitHub repository
+X=12
+Y=8
+print(X*Y)
